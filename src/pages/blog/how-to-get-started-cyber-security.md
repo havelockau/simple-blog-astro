@@ -2,7 +2,7 @@
 layout: '../../layouts/Post.astro'
 title: Getting Started In Cyber Security
 image: /images/two-computers
-publishedAt: "08-02-23"
+publishedAt: "02-07-23"
 category: 'Beginner'
 ---
 
