@@ -1,7 +1,7 @@
 export const settings = {
-  site: 'https://simple-blog.littlesticks.dev',
-  name: 'Simple Blog',
-  title: 'Site title',
-  description: 'Site description',
-  showLittleSticksPlug: true,
+  site: 'https://havelock.cc',
+  name: 'Astro Simple Blog',
+  title: 'HAVELOCK',
+  description: 'Perth based cybersecurity analyst blog',
+  showLittleSticksPlug: false,
 }
