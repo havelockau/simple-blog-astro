@@ -1,5 +1,5 @@
 ---
-layout: '../../layouts/Post.astro'
+layout: '../../layouts/Post.astro' 
 title: Top 3 Practical Cybersecurity Websites
 image: /images/collab-desk
 publishedAt: 02-08-2023
