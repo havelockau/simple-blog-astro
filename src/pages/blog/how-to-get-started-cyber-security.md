@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/Post.astro'
-title: How to get started in Cyber Security for 2023 
+title: Getting Started In Cyber Security
 image: /images/two-computers
 publishedAt: "08-02-23"
 category: 'Beginner'
