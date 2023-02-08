@@ -11,7 +11,7 @@ export const socials = [
   },
   {
     name: 'Instagram',
-    url: 'https://instagram.com.w1l.l',
+    url: 'https://instagram.com/w1l.l',
     icon: 'mdi:instagram'
   }
 ]
