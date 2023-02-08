@@ -1,21 +1,21 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Top 3 Resources for Free Photos
-image: /images/photography
-publishedAt: 2021-02-20
-category: 'Resources'
+title: Top 3 Practical Cybersecurity Websites
+image: /images/collab-desk
+publishedAt: 07-02-2023
+category: 'Beginner'
 ---
 
-## Heading 2
+## Top 3 Practical Cybersecurity Websites
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget gravida cum sociis natoque penatibus et magnis dis. Posuere morbi leo urna molestie at elementum eu facilisis sed. Lectus nulla at volutpat diam. Pharetra magna ac placerat vestibulum lectus. Turpis massa tincidunt dui ut ornare lectus sit amet. Pretium vulputate sapien nec sagittis. Mollis nunc sed id semper. Odio pellentesque diam volutpat commodo sed egestas. Mi sit amet mauris commodo quis. Ullamcorper morbi tincidunt ornare massa. Mi proin sed libero enim sed faucibus turpis. Eu consequat ac felis donec et. Ultricies integer quis auctor elit. Aliquam sem et tortor consequat id porta nibh.
+Cybersecurity is an ever-growing field that requires individuals to constantly improve their skills and knowledge. The internet is filled with resources and platforms that provide hands-on experience to help individuals enhance their skills. In this post, we will be discussing three popular cybersecurity websites - TryHackMe, HackTheBox, and ImmersiveLabs.
+
+TryHackMe is an online platform that provides a hands-on learning experience for cybersecurity enthusiasts. It offers a variety of virtual labs and challenges that allow individuals to practice various penetration testing techniques in a controlled environment. TryHackMe also provides an interactive learning experience, with the option to join or create rooms to collaborate with others on challenges and discussions.
+
+HackTheBox is another popular cybersecurity website that offers a range of challenging exercises and real-world scenarios. The platform requires individuals to hack into various virtual machines to gain access to sensitive information, and the level of difficulty increases as individuals progress. HackTheBox also provides a supportive community, where individuals can collaborate and share their experiences.
+
+ImmersiveLabs is an innovative cybersecurity learning platform that provides hands-on experience with a gamified approach. The platform offers a variety of challenging scenarios, from network and web penetration testing to incident response and forensics. ImmersiveLabs also provides real-time feedback and suggestions to help individuals improve their skills. Additionally, the platform also provides a virtual lab environment, where individuals can test their skills on real-world infrastructure.
+
+TryHackMe, HackTheBox, and ImmersiveLabs are three popular cybersecurity websites that provide hands-on learning experiences and challenging scenarios to help individuals enhance their skills. Whether you are a beginner or an experienced cybersecurity professional, these platforms provide a unique and interactive way to improve your knowledge and skills.
 
 ![image](https://unsplash.it/400/300)
-
-Mi sit amet mauris commodo quis imperdiet massa. Cras tincidunt lobortis feugiat vivamus at augue. Lobortis feugiat vivamus at augue. Vulputate mi sit amet mauris. Congue mauris rhoncus aenean vel elit. Ut morbi tincidunt augue interdum velit euismod in. Viverra justo nec ultrices dui sapien eget. Magna fringilla urna porttitor rhoncus. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Cum sociis natoque penatibus et magnis dis parturient montes nascetur. Sapien faucibus et molestie ac. Maecenas pharetra convallis posuere morbi leo urna. Mauris nunc congue nisi vitae suscipit tellus mauris a.
-
-Commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Enim tortor at auctor urna nunc id cursus. Mattis enim ut tellus elementum sagittis vitae et leo duis. Sed libero enim sed faucibus turpis in eu mi bibendum. Turpis massa tincidunt dui ut ornare. Eu sem integer vitae justo. Feugiat nibh sed pulvinar proin. Sagittis nisl rhoncus mattis rhoncus urna neque. Aenean et tortor at risus viverra adipiscing at in. Sed ullamcorper morbi tincidunt ornare massa. Lorem ipsum dolor sit amet consectetur. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Bibendum arcu vitae elementum curabitur vitae nunc sed. In egestas erat imperdiet sed euismod nisi. Tellus at urna condimentum mattis pellentesque. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Pellentesque sit amet porttitor eget dolor morbi non arcu risus.
-
-Dui ut ornare lectus sit amet est. Cursus turpis massa tincidunt dui ut. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam. Arcu bibendum at varius vel pharetra vel turpis nunc eget. Vivamus at augue eget arcu. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget. Eget nullam non nisi est sit amet facilisis magna. Pellentesque elit eget gravida cum sociis. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Aliquam etiam erat velit scelerisque in dictum non. Quam viverra orci sagittis eu volutpat odio. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim.
-
-Nisl nunc mi ipsum faucibus vitae. Congue eu consequat ac felis donec et odio pellentesque. Sit amet purus gravida quis blandit turpis. In dictum non consectetur a. Nibh cras pulvinar mattis nunc sed blandit libero. Pellentesque habitant morbi tristique senectus et netus et malesuada. Amet tellus cras adipiscing enim eu. Adipiscing bibendum est ultricies integer quis auctor elit. Augue lacus viverra vitae congue eu. Faucibus et molestie ac feugiat sed lectus vestibulum. At risus viverra adipiscing at in tellus. Tincidunt vitae semper quis lectus. Ultrices dui sapien eget mi. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius sit. Quisque id diam vel quam elementum pulvinar etiam non quam. Sed viverra tellus in hac habitasse platea dictumst vestibulum. Massa id neque aliquam vestibulum morbi. Purus viverra accumsan in nisl nisi.
