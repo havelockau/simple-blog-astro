@@ -2,7 +2,7 @@
 layout: '../../layouts/Post.astro'
 title: Top 3 Practical Cybersecurity Websites
 image: /images/collab-desk
-publishedAt: 07-02-2023
+publishedAt: 02-08-2023
 category: 'Beginner'
 ---
 
