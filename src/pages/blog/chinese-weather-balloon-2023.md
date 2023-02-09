@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/Post.astro'
 title: Chinese Weather Balloon
-image: /images/chinese_balloon
+image: /images/china_balloon
 publishedAt: 02-09-2023
 category: 'Global'
 ---
