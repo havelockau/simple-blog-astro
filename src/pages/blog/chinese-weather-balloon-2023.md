@@ -6,7 +6,7 @@ publishedAt: 02-09-2023
 category: 'Global'
 ---
 
-## Load of hot air?
+## Blowing hot wind?
 
 There has been a lot of media speculation and several narratives that surround the Chinese Hot Air Balloon fiasco that was first noticed near the start of February, 2023. Since the identification of the balloon by civilians and the government, the USA have had a strong response. But is it really that big of a deal? Is the media blowing another story out of proportion? Why is Beijing embarrassed? Find out more in this article.
 
