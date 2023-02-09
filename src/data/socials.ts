@@ -1,7 +1,7 @@
 export const socials = [
   {
     name: 'Twitter',
-    url: 'https://twitter.com/havelock',
+    url: 'https://twitter.com/havelockau',
     icon: 'mdi:twitter'
   },
   {

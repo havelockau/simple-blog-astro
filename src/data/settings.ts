@@ -1,6 +1,6 @@
 export const settings = {
   site: 'https://havelock.cc',
-  name: 'Astro - Simple Blog',
+  name: 'HAVELOCK // Perth, WA',
   title: 'HAVELOCK',
   description: 'Perth based cybersecurity analyst blog',
   showLittleSticksPlug: false,
