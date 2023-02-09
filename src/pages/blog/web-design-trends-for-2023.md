@@ -1,22 +1,14 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Web Design Trends for 2023
-image: /images/web-design
-publishedAt: 2022-09-03
-category: 'Resources'
+title: Chinese Weather Balloon
+image: /images/takeoff
+publishedAt: 02-09-2023
+category: 'Global'
 ---
 
-## Heading 2
+## Load of hot air?
 
-This is a fancy copy code button that is automatically added to all code blocks.
-
-```js
-let foo = 'bar';
-
-console.log(foo);
-```
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget gravida cum sociis natoque penatibus et magnis dis. Posuere morbi leo urna molestie at elementum eu facilisis sed. Lectus nulla at volutpat diam. Pharetra magna ac placerat vestibulum lectus. Turpis massa tincidunt dui ut ornare lectus sit amet. Pretium vulputate sapien nec sagittis. Mollis nunc sed id semper. Odio pellentesque diam volutpat commodo sed egestas. Mi sit amet mauris commodo quis. Ullamcorper morbi tincidunt ornare massa. Mi proin sed libero enim sed faucibus turpis. Eu consequat ac felis donec et. Ultricies integer quis auctor elit. Aliquam sem et tortor consequat id porta nibh.
+There has been a lot of media speculation and several narratives that surround the Chinese Hot Air Balloon fiasco that was first noticed near the start of February, 2023. Since the identification of the balloon by civilians and the government, the USA have had a strong response. But is it really that big of a deal? Is the media blowing another story out of proportion? Why is Beijing embarrassed? Find out more in this article.
 
 ![image](https://unsplash.it/400/300)
 
