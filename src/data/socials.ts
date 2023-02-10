@@ -14,4 +14,9 @@ export const socials = [
     url: 'https://instagram.com/w1l.l',
     icon: 'mdi:instagram'
   }
+  {
+    name: 'LinkedIn',
+    url: 'https://au.linkedin.com/in/wil-lawson-966300222',
+    icon: 'mdi:linkedin'
+  }
 ]
