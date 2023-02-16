@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: More Balloons?
 image: /images/f_16_fighter_jet
 publishedAt: 02-16-2023
-category: 'Global'
+category: 'Global' 'China' 'USA' 'Balloon'
 ---
 
 ## More than just hot wind?
