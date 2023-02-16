@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: Chinese Weather Balloon
 image: /images/china_balloon
 publishedAt: 02-09-2023
-category: 'Global' 'China' 'USA' 'Balloon'
+category: 'Global'
 ---
 
 ## Blowing hot wind?
