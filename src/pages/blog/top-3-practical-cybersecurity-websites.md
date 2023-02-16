@@ -14,8 +14,13 @@ TryHackMe is an online platform that provides a hands-on learning experience for
 
 HackTheBox is another popular cybersecurity website that offers a range of challenging exercises and real-world scenarios. The platform requires individuals to hack into various virtual machines to gain access to sensitive information, and the level of difficulty increases as individuals progress. HackTheBox also provides a supportive community, where individuals can collaborate and share their experiences.
 
+![image](https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1076&q=80)
+
 ImmersiveLabs is an innovative cybersecurity learning platform that provides hands-on experience with a gamified approach. The platform offers a variety of challenging scenarios, from network and web penetration testing to incident response and forensics. ImmersiveLabs also provides real-time feedback and suggestions to help individuals improve their skills. Additionally, the platform also provides a virtual lab environment, where individuals can test their skills on real-world infrastructure.
 
 TryHackMe, HackTheBox, and ImmersiveLabs are three popular cybersecurity websites that provide hands-on learning experiences and challenging scenarios to help individuals enhance their skills. Whether you are a beginner or an experienced cybersecurity professional, these platforms provide a unique and interactive way to improve your knowledge and skills.
 
-![image](https://unsplash.it/400/300)
+As always,
+
+Thanks for reading.
+
