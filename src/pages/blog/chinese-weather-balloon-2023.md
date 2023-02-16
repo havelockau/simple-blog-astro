@@ -10,7 +10,7 @@ category: 'Global' 'China' 'USA' 'Balloon'
 
 There has been a lot of media speculation and several narratives that surround the Chinese Hot Air Balloon fiasco that was first noticed near the start of February, 2023. Since the identification of the balloon by civilians and the government, the USA have had a strong response. But is it really that big of a deal? Is the media blowing another story out of proportion? Why is Beijing embarrassed? Find out more in this article.
 
-![image](https://unsplash.it/400/300)
+![image](https://hotairflyer.com/wp-content/uploads/2021/05/radar.jpg)
 
 Mi sit amet mauris commodo quis imperdiet massa. Cras tincidunt lobortis feugiat vivamus at augue. Lobortis feugiat vivamus at augue. Vulputate mi sit amet mauris. Congue mauris rhoncus aenean vel elit. Ut morbi tincidunt augue interdum velit euismod in. Viverra justo nec ultrices dui sapien eget. Magna fringilla urna porttitor rhoncus. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Cum sociis natoque penatibus et magnis dis parturient montes nascetur. Sapien faucibus et molestie ac. Maecenas pharetra convallis posuere morbi leo urna. Mauris nunc congue nisi vitae suscipit tellus mauris a.
 
