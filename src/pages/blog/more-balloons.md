@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/Post.astro'
 title: More Balloons?
-image: /images/f-16-fighter-jet
+image: /images/f_16_fighter_jet
 publishedAt: 02-16-2023
 category: 'Global'
 ---
