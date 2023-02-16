@@ -25,7 +25,7 @@ greeting = 'Hello World';
 console.log(greeting);
 ```
 
-![image](https://unsplash.it/400/300)
+![image](https://pbs.twimg.com/media/EYYxM1zUYAYi7Eg.jpg)
 
 4. Read about the latest cybersecurity trends and news: Staying up-to-date on the latest cybersecurity trends and news is important in order to understand the evolving threat landscape. It's important to realise that cybersecurity is an ongoing issue globally, and that learning about it should become apart of your lifestyle.
 
