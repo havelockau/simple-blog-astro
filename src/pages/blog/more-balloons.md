@@ -21,6 +21,8 @@ Since last week, the government have communicated that among many of the innocen
 ## So why are we only now detecting these balloons? 
 North American Aerospace Defense Command (NORAD) utilizes a radar detection system which filters out smaller objects to prevent unnecessary clutter. This filter was implemented prior to the detection of a large surveillance balloon, as well as in light of the three balloons which were recently shot down this weekend and would not have picked up any signal of the aircrafts. This shows that China are exploiting what could be defined as a vulnerability in the NORAD radar detection systems' filters. An exploit which has most likely been leveraged since 2018. 
 
+![image](https://images.perthnow.com.au/publication/C-9397671/e51fb7a6cec3978a3e563bfe591912d1c8545b82-16x9-x667y0w5333h3000.jpg)
+
 To find out more about China's goals with their balloon program and to understand more about China's want to spread over the globe, look out for the next article. 
 
 As always,
