@@ -10,7 +10,7 @@ category: 'Framework'
 ## Online Cyber Kill Chain Overview
 
 
-<img src=../images/Meta-Killchain-Infographic alt="Meta Online Cyber Kill Chain by Havelock"/>
+![image](https://imgur.com/e0zGN9m)
 
 
  
