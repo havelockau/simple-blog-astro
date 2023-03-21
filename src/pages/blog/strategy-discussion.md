@@ -26,7 +26,7 @@ Overall, the Australian government's 2023-2030 Cyber Security Strategy Discussio
 
 ## High Expectations?
 
-Cyber Security has been a priority only to organisations like the Australian Signals Directorate (ASD) and Australian Cyber Security Centre (ACSC). For most businesses, cyber security is obviously not a priority. With increasingly accessible sophisticated threats, the Australian Government knows it must act now. There are high expectations that are implied in this strategy, with ambitious goals of a potential secure future. Australia must change culturally to adapt to new cyber security challenges, which starts with awareness and education. 
+Cyber Security has been a priority only to organisations like the Australian Signals Directorate (ASD) and Australian Cyber Security Centre (ACSC). For most businesses, cyber security is obviously not a priority. With increasingly accessible sophisticated threats, the Australian Government knows it must act now. There are high expectations that are implied in this strategy, with ambitious goals of a potential secure future. Australia must change culturally to adapt to new cyber security challenges, which starts with awareness and education. The ambition from 
  
 ```js
 To view the discussion paper
