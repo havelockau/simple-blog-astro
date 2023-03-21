@@ -4,14 +4,13 @@ title: Meta Online Cyber Kill Chain
 image: /images/logo-Meta
 publishedAt: 03-21-2023
 category: 'Framework'
-import infographic from '../images/Meta-Killchain-Infographic';
 ---
 
 
 ## Online Cyber Kill Chain Overview
 
 
-<img src={infographic} alt="Meta Online Cyber Kill Chain by Havelock"/>
+<img src=../images/Meta-Killchain-Infographic alt="Meta Online Cyber Kill Chain by Havelock"/>
 
 
  
