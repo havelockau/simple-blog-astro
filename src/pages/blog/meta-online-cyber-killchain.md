@@ -9,8 +9,8 @@ category: 'Framework'
 ## Online Cyber Kill Chain Overview
 
 
-
-![image](/images/Meta-Killchain-Infographic)
+<!-- Local image stored at public/assets/stars.png -->
+<img src="/images/Meta-Killchain-Infographic.webp" alt="Meta-Online-Killchain-by-Havelock">
 
 
  
