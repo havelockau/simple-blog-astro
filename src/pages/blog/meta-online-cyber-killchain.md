@@ -10,7 +10,7 @@ category: 'Framework'
 ## Online Cyber Kill Chain Overview
 
 
-![image](https://imgur.com/e0zGN9m)
+![image](https://imgur.com/e0zGN9m.png)
 
 
  
