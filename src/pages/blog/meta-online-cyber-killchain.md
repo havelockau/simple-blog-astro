@@ -5,12 +5,12 @@ image: /images/logo-Meta
 publishedAt: 03-21-2023
 category: 'Framework'
 ---
+import infographic from '../images/Meta-Killchain-Infographic';
 
 ## Online Cyber Kill Chain Overview
 
 
-<!-- Local image stored at public/assets/stars.png -->
-<img src="/public/images/Meta-Killchain-Infographic" alt="Meta-Online-Killchain-by-Havelock">
+<img src={infographic} alt="Meta Online Cyber Kill Chain by Havelock"/>
 
 
  
